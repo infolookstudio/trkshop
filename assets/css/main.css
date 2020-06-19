@@ -18,3 +18,21 @@
     border-radius: 5px 0px 0px 5px !important;
     border: none !important;
 }
+.trk-btn span {
+    margin-right: 10px;
+}
+.trk-btn {
+    background: #fff;
+    color: #777 !important;
+    border-color: #ddd;
+    transition: .2s !important;
+}
+.product-thumb:hover .trk-btn {
+    background: #F15124;
+    color: #fff !important;
+}
+.trk-btn:hover {
+    border-color: transparent !important;
+    background: #2A3746 !important;
+    color: #fff !important;
+}
