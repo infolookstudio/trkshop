@@ -1,6 +1,20 @@
 .site-header,nav#top {
-    background: #181919;
+    background: #1E1F1F;
 }
 .site-header .cartco {
     color: #fff;
+}
+#top {
+    border-bottom: 1px solid #2f2f2f;
+}
+
+.header-social .socials-block ul li:first-child a {
+    border-color: #2f2f2f;
+}
+.header-social .socials-block ul li a, #top-links ul li:last-child {
+    border-color: #2f2f2f;
+}
+#search input {
+    border-radius: 5px 0px 0px 5px !important;
+    border: none !important;
 }
