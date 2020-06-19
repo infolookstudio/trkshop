@@ -36,3 +36,9 @@
     background: #2A3746 !important;
     color: #fff !important;
 }
+#search .input-lg, #btn-search-category {
+    height: 50px;
+}
+.product-thumb.tkr-box {
+    padding-bottom: 5px;
+}
