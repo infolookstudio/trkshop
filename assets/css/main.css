@@ -39,6 +39,20 @@
 #search .input-lg, #btn-search-category {
     height: 50px;
 }
-.product-thumb.tkr-box {
-    padding-bottom: 5px;
+.product-thumb {
+    padding-bottom: 0px;
+}
+.fnews input::placeholder, .fnews input {
+    color: #8C8C8C !important;
+}
+#search input {
+    font-size: 18px;
+}
+.static-menu li a {
+    font-size: 13px;
+    font-family: inherit;
+}
+
+.static-menu li {
+    padding-top: 15px;
 }
