@@ -69,4 +69,9 @@
     font-size: 16px;
     background: #333333;
     border: 1px solid #2f2f2f !important;
+    color: #636363
+}
+
+#search input::placeholder {
+    color: #636363
 }
