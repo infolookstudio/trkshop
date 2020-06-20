@@ -47,6 +47,11 @@
 }
 #search input {
     font-size: 18px;
+    background: transparent;
+    border: 1px solid #ddd !important;
+}
+#search input:focus {
+    background: #fff;
 }
 .static-menu li a {
     font-size: 13px;
@@ -55,4 +60,7 @@
 
 .static-menu li {
     padding-top: 15px;
+}
+#btn-search-category i {
+    font-size: 20px;
 }
