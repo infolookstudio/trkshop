@@ -64,3 +64,9 @@
 #btn-search-category i {
     font-size: 20px;
 }
+
+#search input {
+    font-size: 18px;
+    background: #333333;
+    border: 1px solid #2f2f2f !important;
+}
