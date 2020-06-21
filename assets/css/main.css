@@ -57,21 +57,21 @@
     font-size: 13px;
     font-family: inherit;
 }
-
 .static-menu li {
     padding-top: 15px;
 }
 #btn-search-category i {
     font-size: 20px;
 }
-
 #search input {
     font-size: 16px;
     background: #333333;
     border: 1px solid #2f2f2f !important;
     color: #636363
 }
-
 #search input::placeholder {
     color: #636363
+}
+svg#trk-basket {
+    display: none;
 }
